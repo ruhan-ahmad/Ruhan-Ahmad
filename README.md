@@ -37,27 +37,6 @@
 ### ☁️ DevOps & Tools
 - Docker | AWS (S3, EC2, Lambda) | GCP
 - GitHub Actions | CI/CD Pipelines  
-
----
-
-## 🔥 Featured Projects
-
-### 🧠 AI Legal Assistant System
-- Multi-agent system for:
-  - Legal advice  
-  - Document drafting  
-  - Risk analysis  
-- Built with **RAG + Neo4j + LangChain**
-
----
-
-### 🍽️ Restaurant Intelligence (Review Munch)
-- AI-powered insights from restaurant reviews  
-- Sentiment analysis + competitor benchmarking  
-- Dashboard with analytics & insights  
-
----
-
 ### 💰 Transaction Reconciliation Platform
 - Detects mismatches between financial datasets  
 - AI-generated summaries & fraud insights  
