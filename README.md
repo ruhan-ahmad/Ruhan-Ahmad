@@ -27,7 +27,7 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 <p>
   <img src="https://img.shields.io/badge/LLMs-6366F1?style=flat-square"/>
   <img src="https://img.shields.io/badge/AI_Agents-22C55E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAG_&_Graph_RAG-A855F7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG_&_Graph_RAG-A605F7?style=flat-square"/>
   <img src="https://img.shields.io/badge/Voice_AI-F43F5E?style=flat-square"/>
   <img src="https://img.shields.io/badge/Automation-F59E0B?style=flat-square"/>
   <img src="https://img.shields.io/badge/Full--Stack-0EA5E9?style=flat-square"/>
@@ -45,15 +45,15 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="https://img.shields.io/badge/✦_LLMs_%26_Providers-0B1220?style=for-the-badge&labelColor=111827&color=6366F1"/>
 </p>
 <p align="center">
-  <img src="./icons/label-openai.svg" height="85" alt="OpenAI"/>
-  <img src="./icons/label-azure-openai.svg" height="85" alt="Azure OpenAI"/>
-  <img src="./icons/label-gemini.svg" height="85" alt="Gemini"/>
-  <img src="./icons/label-claude.svg" height="85" alt="Claude"/>
-  <img src="./icons/label-perplexity.svg" height="85" alt="Perplexity"/>
-  <img src="./icons/label-groq.svg" height="85" alt="Groq"/>
-  <img src="./icons/label-llama3.svg" height="85" alt="Llama 3"/>
-  <img src="./icons/label-ollama.svg" height="85" alt="Ollama"/>
-  <img src="./icons/label-huggingface.svg" height="85" alt="Hugging Face Inference"/>
+  <img src="./icons/label-openai.svg" height="60" alt="OpenAI"/>
+  <img src="./icons/label-azure-openai.svg" height="60" alt="Azure OpenAI"/>
+  <img src="./icons/label-gemini.svg" height="60" alt="Gemini"/>
+  <img src="./icons/label-claude.svg" height="60" alt="Claude"/>
+  <img src="./icons/label-perplexity.svg" height="60" alt="Perplexity"/>
+  <img src="./icons/label-groq.svg" height="60" alt="Groq"/>
+  <img src="./icons/label-llama3.svg" height="60" alt="Llama 3"/>
+  <img src="./icons/label-ollama.svg" height="60" alt="Ollama"/>
+  <img src="./icons/label-huggingface.svg" height="60" alt="Hugging Face Inference"/>
 </p>
 
 <br/>
@@ -62,31 +62,31 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="https://img.shields.io/badge/✦_Agent_Frameworks-0B1220?style=for-the-badge&labelColor=111827&color=22C55E"/>
 </p>
 <p align="center">
-  <img src="./icons/label-langchain.svg" height="85" alt="LangChain"/>
-  <img src="./icons/label-langgraph.svg" height="85" alt="LangGraph"/>
-  <img src="./icons/label-autogen.svg" height="85" alt="AutoGen"/>
-  <img src="./icons/label-crewai.svg" height="85" alt="CrewAI"/>
-  <img src="./icons/label-openai-agents.svg" height="85" alt="OpenAI Agents SDK"/>
-  <img src="./icons/label-openai-assistants.svg" height="85" alt="OpenAI Assistants API"/>
+  <img src="./icons/label-langchain.svg" height="60" alt="LangChain"/>
+  <img src="./icons/label-langgraph.svg" height="60" alt="LangGraph"/>
+  <img src="./icons/label-autogen.svg" height="60" alt="AutoGen"/>
+  <img src="./icons/label-crewai.svg" height="60" alt="CrewAI"/>
+  <img src="./icons/label-openai-agents.svg" height="60" alt="OpenAI Agents SDK"/>
+  <img src="./icons/label-openai-assistants.svg" height="60" alt="OpenAI Assistants API"/>
 </p>
 <p align="center">
-  <img src="./icons/label-google-adk.svg" height="85" alt="Google ADK"/>
-  <img src="./icons/label-mcp.svg" height="85" alt="MCP"/>
+  <img src="./icons/label-google-adk.svg" height="60" alt="Google ADK"/>
+  <img src="./icons/label-mcp.svg" height="60" alt="MCP"/>
 </p>
 
 <br/>
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✦_Vector_%26_Graph_Databases-0B1220?style=for-the-badge&labelColor=111827&color=A855F7"/>
+  <img src="https://img.shields.io/badge/✦_Vector_%26_Graph_Databases-0B1220?style=for-the-badge&labelColor=111827&color=A605F7"/>
 </p>
 <p align="center">
-  <img src="./icons/label-pinecone.svg" height="85" alt="Pinecone"/>
-  <img src="./icons/label-chroma.svg" height="85" alt="Chroma"/>
-  <img src="./icons/label-weaviate.svg" height="85" alt="Weaviate"/>
-  <img src="./icons/label-openai-vector-store.svg" height="85" alt="OpenAI Vector Store"/>
-  <img src="./icons/label-neo4j.svg" height="85" alt="Neo4j"/>
-  <img src="./icons/label-falkordb.svg" height="85" alt="FalkorDB"/>
+  <img src="./icons/label-pinecone.svg" height="60" alt="Pinecone"/>
+  <img src="./icons/label-chroma.svg" height="60" alt="Chroma"/>
+  <img src="./icons/label-weaviate.svg" height="60" alt="Weaviate"/>
+  <img src="./icons/label-openai-vector-store.svg" height="60" alt="OpenAI Vector Store"/>
+  <img src="./icons/label-neo4j.svg" height="60" alt="Neo4j"/>
+  <img src="./icons/label-falkordb.svg" height="60" alt="FalkorDB"/>
 </p>
 
 <br/>
@@ -95,12 +95,12 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="https://img.shields.io/badge/✦_Voice_AI-0B1220?style=for-the-badge&labelColor=111827&color=F43F5E"/>
 </p>
 <p align="center">
-  <img src="./icons/label-voiceai.svg" height="85" alt="Voice AI"/>
-  <img src="./icons/label-vapi.svg" height="85" alt="Vapi"/>
-  <img src="./icons/label-twilio.svg" height="85" alt="Twilio"/>
-  <img src="./icons/label-openai-realtime.svg" height="85" alt="OpenAI Realtime API"/>
-  <img src="./icons/label-deepgram.svg" height="85" alt="Deepgram"/>
-  <img src="./icons/label-whisper.svg" height="85" alt="Whisper"/>
+  <img src="./icons/label-voiceai.svg" height="60" alt="Voice AI"/>
+  <img src="./icons/label-vapi.svg" height="60" alt="Vapi"/>
+  <img src="./icons/label-twilio.svg" height="60" alt="Twilio"/>
+  <img src="./icons/label-openai-realtime.svg" height="60" alt="OpenAI Realtime API"/>
+  <img src="./icons/label-deepgram.svg" height="60" alt="Deepgram"/>
+  <img src="./icons/label-whisper.svg" height="60" alt="Whisper"/>
 </p>
 
 <br/>
@@ -109,10 +109,10 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="https://img.shields.io/badge/✦_Automation-0B1220?style=for-the-badge&labelColor=111827&color=F59E0B"/>
 </p>
 <p align="center">
-  <img src="./icons/label-n8n.svg" height="85" alt="n8n"/>
-  <img src="./icons/label-openclaw.svg" height="85" alt="OpenClaw"/>
-  <img src="./icons/label-zapier.svg" height="85" alt="Zapier"/>
-  <img src="./icons/label-make.svg" height="85" alt="Make"/>
+  <img src="./icons/label-n8n.svg" height="60" alt="n8n"/>
+  <img src="./icons/label-openclaw.svg" height="60" alt="OpenClaw"/>
+  <img src="./icons/label-zapier.svg" height="60" alt="Zapier"/>
+  <img src="./icons/label-make.svg" height="60" alt="Make"/>
 </p>
 
 ---
@@ -120,17 +120,17 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 ### Frontend
 
 <p align="center">
-  <img src="./icons/label-nextjs.svg" height="85" alt="Next.js"/>
-  <img src="./icons/label-react.svg" height="85" alt="React"/>
-  <img src="./icons/label-vue.svg" height="85" alt="Vue"/>
-  <img src="./icons/label-ts.svg" height="85" alt="TypeScript"/>
-  <img src="./icons/label-js.svg" height="85" alt="JavaScript"/>
-  <img src="./icons/label-tailwind.svg" height="85" alt="Tailwind"/>
-  <img src="./icons/label-redux.svg" height="85" alt="Redux"/>
-  <img src="./icons/label-pinia.svg" height="85" alt="Pinia"/>
-  <img src="./icons/label-vite.svg" height="85" alt="Vite"/>
-  <img src="./icons/label-html.svg" height="85" alt="HTML"/>
-  <img src="./icons/label-css.svg" height="85" alt="CSS"/>
+  <img src="./icons/label-nextjs.svg" height="60" alt="Next.js"/>
+  <img src="./icons/label-react.svg" height="60" alt="React"/>
+  <img src="./icons/label-vue.svg" height="60" alt="Vue"/>
+  <img src="./icons/label-ts.svg" height="60" alt="TypeScript"/>
+  <img src="./icons/label-js.svg" height="60" alt="JavaScript"/>
+  <img src="./icons/label-tailwind.svg" height="60" alt="Tailwind"/>
+  <img src="./icons/label-redux.svg" height="60" alt="Redux"/>
+  <img src="./icons/label-pinia.svg" height="60" alt="Pinia"/>
+  <img src="./icons/label-vite.svg" height="60" alt="Vite"/>
+  <img src="./icons/label-html.svg" height="60" alt="HTML"/>
+  <img src="./icons/label-css.svg" height="60" alt="CSS"/>
 </p>
 
 ---
@@ -138,14 +138,14 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 ### Backend
 
 <p align="center">
-  <img src="./icons/label-python.svg" height="85" alt="Python"/>
-  <img src="./icons/label-fastapi.svg" height="85" alt="FastAPI"/>
-  <img src="./icons/label-django.svg" height="85" alt="Django"/>
-  <img src="./icons/label-aws-chalice.svg" height="85" alt="AWS Chalice"/>
-  <img src="./icons/label-sqlalchemy.svg" height="85" alt="SQLAlchemy"/>
-  <img src="./icons/label-sqlmodel.svg" height="85" alt="SQLModel"/>
-  <img src="./icons/label-pydantic.svg" height="85" alt="Pydantic"/>
-  <img src="./icons/label-alembic.svg" height="85" alt="Alembic"/>
+  <img src="./icons/label-python.svg" height="60" alt="Python"/>
+  <img src="./icons/label-fastapi.svg" height="60" alt="FastAPI"/>
+  <img src="./icons/label-django.svg" height="60" alt="Django"/>
+  <img src="./icons/label-aws-chalice.svg" height="60" alt="AWS Chalice"/>
+  <img src="./icons/label-sqlalchemy.svg" height="60" alt="SQLAlchemy"/>
+  <img src="./icons/label-sqlmodel.svg" height="60" alt="SQLModel"/>
+  <img src="./icons/label-pydantic.svg" height="60" alt="Pydantic"/>
+  <img src="./icons/label-alembic.svg" height="60" alt="Alembic"/>
 </p>
 
 ---
@@ -153,14 +153,14 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 ### Databases
 
 <p align="center">
-  <img src="./icons/label-postgres.svg" height="85" alt="PostgreSQL"/>
-  <img src="./icons/label-mysql.svg" height="85" alt="MySQL"/>
-  <img src="./icons/label-mongodb.svg" height="85" alt="MongoDB"/>
-  <img src="./icons/label-redis.svg" height="85" alt="Redis"/>
-  <img src="./icons/label-cosmos.svg" height="85" alt="Cosmos DB"/>
-  <img src="./icons/label-sqlserver.svg" height="85" alt="SQL Server"/>
-  <img src="./icons/label-neo4j.svg" height="85" alt="Neo4j"/>
-  <img src="./icons/label-falkordb.svg" height="85" alt="FalkorDB"/>
+  <img src="./icons/label-postgres.svg" height="60" alt="PostgreSQL"/>
+  <img src="./icons/label-mysql.svg" height="60" alt="MySQL"/>
+  <img src="./icons/label-mongodb.svg" height="60" alt="MongoDB"/>
+  <img src="./icons/label-redis.svg" height="60" alt="Redis"/>
+  <img src="./icons/label-cosmos.svg" height="60" alt="Cosmos DB"/>
+  <img src="./icons/label-sqlserver.svg" height="60" alt="SQL Server"/>
+  <img src="./icons/label-neo4j.svg" height="60" alt="Neo4j"/>
+  <img src="./icons/label-falkordb.svg" height="60" alt="FalkorDB"/>
 </p>
 
 ---
@@ -168,13 +168,13 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 ### Cloud & DevOps
 
 <p align="center">
-  <img src="./icons/label-aws.svg" height="85" alt="AWS"/>
-  <img src="./icons/label-gcp.svg" height="85" alt="GCP"/>
-  <img src="./icons/label-azure.svg" height="85" alt="Azure"/>
-  <img src="./icons/label-docker.svg" height="85" alt="Docker"/>
-  <img src="./icons/label-kubernetes.svg" height="85" alt="Kubernetes"/>
-  <img src="./icons/label-githubactions.svg" height="85" alt="GitHub Actions"/>
-  <img src="./icons/label-git.svg" height="85" alt="Git"/>
+  <img src="./icons/label-aws.svg" height="60" alt="AWS"/>
+  <img src="./icons/label-gcp.svg" height="60" alt="GCP"/>
+  <img src="./icons/label-azure.svg" height="60" alt="Azure"/>
+  <img src="./icons/label-docker.svg" height="60" alt="Docker"/>
+  <img src="./icons/label-kubernetes.svg" height="60" alt="Kubernetes"/>
+  <img src="./icons/label-githubactions.svg" height="60" alt="GitHub Actions"/>
+  <img src="./icons/label-git.svg" height="60" alt="Git"/>
 </p>
 
 ---
@@ -182,7 +182,7 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 # GitHub Contributions
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=ruhan-ahmad&&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=500" alt="Total contributions"/>
+<img src="https://streak-stats.demolab.com?user=ruhan-ahmad&&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=600" alt="Total contributions"/>
 </div>
 
 ---
