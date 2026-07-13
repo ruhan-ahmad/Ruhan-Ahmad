@@ -173,7 +173,9 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 
 ---
 
-### Cloud & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/✦Cloud & DevOps-0B1220?style=for-the-badge&labelColor=111827&color=A605F7"/>
+</p>
 
 <p align="center">
   <img src="./icons/label-aws.svg" height="60" alt="AWS"/>
