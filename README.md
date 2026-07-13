@@ -172,21 +172,3 @@ I've delivered AI solutions across **FinTech**, **Healthcare**, **B2B SaaS**, an
 </div>
 
 ---
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ruhan-ahmad&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for stopping by!
-
-*"Building AI systems that create measurable business impact."*
-
-</div>
