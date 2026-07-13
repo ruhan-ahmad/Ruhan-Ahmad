@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="394" viewBox="0 0 352 394">
+  <g transform="translate(48,0)">
+    <rect width="256" height="256" rx="60" fill="#412991"/>
+  <g transform="translate(48,48) scale(6.666)"><path fill="#ffffff" d="M12 14a3 3 0 0 0 3-3V5a3 3 0 1 0-6 0v6a3 3 0 0 0 3 3zm5-3a1 1 0 1 0-2 0 3 3 0 0 1-6 0 1 1 0 1 0-2 0 5 5 0 0 0 4 4.9V19H9a1 1 0 1 0 0 2h6a1 1 0 1 0 0-2h-2v-3.1A5 5 0 0 0 17 11z"/></g>
+    <text x="128" y="316" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" fill="#e6edf3">Whisper</text>
+  </g>
+</svg>

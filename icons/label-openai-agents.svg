@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="394" viewBox="0 0 352 394">
+  <g transform="translate(48,0)">
+    <rect width="256" height="256" rx="60" fill="#412991"/>
+    <g transform="translate(48,48) scale(6.666)"><path d="M12 3a9 9 0 1 0 9 9h-3a6 6 0 1 1-6-6z"/></g>
+    <text x="128" y="320" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="700" fill="#e6edf3">OpenAI</text><text x="128" y="376" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="700" fill="#e6edf3">Agents</text>
+  </g>
+</svg>

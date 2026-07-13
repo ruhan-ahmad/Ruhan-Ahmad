@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="394" viewBox="0 0 352 394">
+  <g transform="translate(48,0)">
+    <rect width="256" height="256" rx="60" fill="#FF4D1A"/>
+  <g transform="translate(48,48) scale(6.666)"><path fill="#fff" d="M12 2c-1.1 0-2 .9-2 2v1.1C7.4 5.6 5.5 7.8 5.1 10.5H3v3h2.1c.4 2.7 2.3 4.9 4.9 5.4V21h3v-2.1c2.6-.5 4.5-2.7 4.9-5.4H21v-3h-2.1C18.5 7.8 16.6 5.6 14 5.1V4c0-1.1-.9-2-2-2zm0 5.5a4.5 4.5 0 1 1 0 9 4.5 4.5 0 0 1 0-9zm-7.8-1.2L2.5 4.6 4.2 3l1.7 1.7-1.7 1.6zm15.6 0L17.1 4.7 18.8 3l1.7 1.6-1.7 1.7zM4.2 19.4 2.5 17.7l1.7-1.7 1.7 1.7-1.7 1.7zm15.6 0-1.7-1.7 1.7-1.7 1.7 1.7-1.7 1.7z"/></g>
+    <text x="128" y="316" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="700" fill="#e6edf3">OpenClaw</text>
+  </g>
+</svg>

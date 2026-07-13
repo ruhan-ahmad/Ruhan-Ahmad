@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="394" viewBox="0 0 352 394">
+  <g transform="translate(48,0)">
+    <rect width="256" height="256" rx="60" fill="#111111"/>
+  <g transform="translate(48,48) scale(6.666)"><path fill="#ffffff" d="M4.6035 0v24h4.9317V0zm9.8613 0v24h4.9317V0z"/></g>
+    <text x="128" y="316" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="700" fill="#e6edf3">ElevenLabs</text>
+  </g>
+</svg>

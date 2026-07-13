@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="312" height="376" viewBox="0 0 312 376">
+  <g transform="translate(28,0)">
+  <g transform="translate(0.00,0.00) scale(1.0)">
+    
+  <rect width="256" height="256" rx="40" fill="#CC2927"/>
+  <g transform="translate(48,48) scale(6.666)">
+    <path fill="#fff" d="M4 4h16v4H4V4zm0 6h16v4H4v-4zm0 6h16v4H4v-4z"/>
+  </g>
+
+  </g>
+  <text x="128.0" y="320" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" fill="#e6edf3">SQL Server</text>
+  </g>
+</svg>

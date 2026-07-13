@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="394" viewBox="0 0 352 394">
+  <g transform="translate(48,0)">
+    <rect width="256" height="256" rx="60" fill="#FF6B35"/>
+    <g transform="translate(48,48) scale(6.666)"><path d="M5 4h14v4H5zm0 6h9v4H5zm0 6h14v4H5z"/><circle cx="18" cy="12" r="2.5"/></g>
+    <text x="128" y="316" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" fill="#e6edf3">LlamaIndex</text>
+  </g>
+</svg>

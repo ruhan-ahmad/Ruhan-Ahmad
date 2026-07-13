@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="394" viewBox="0 0 352 394">
+  <g transform="translate(48,0)">
+    <rect width="256" height="256" rx="60" fill="#1E293B"/>
+  <g transform="translate(48,48) scale(6.666)"><path fill="#F97316" d="M9 2h6v2h-1v3.2l5.6 9.6c.5.9.6 1.9.2 2.8S18.4 22 17.4 22H6.6c-1 0-1.9-.5-2.4-1.4s-.3-1.9.2-2.8L10 7.2V4H9V2zm3 5.5L7.2 16h9.6L12 7.5zM8.5 18l.8-1.5h5.4L15.5 18h-7z"/></g>
+    <text x="128" y="316" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" fill="#e6edf3">Alembic</text>
+  </g>
+</svg>

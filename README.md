@@ -1,57 +1,46 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=170&amp;section=header&amp;text=Ruhan%20Ahmad&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;desc=Generative%20AI%20and%20Full-Stack%20Engineer&amp;descSize=16&amp;descAlignY=56&amp;descColor=F5F3FF&amp;animation=fadeIn&amp;color=0:4F46E5,35:7C3AED,70:DB2777,100:06B6D4" width="100%" alt="Ruhan Ahmad"/>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ruhan-ahmad&amp;label=Profile%20views&amp;color=7C3AED&amp;style=for-the-badge" alt="Profile views"/>
+</p>
+
 <div align="center">
 
-# Hi, I'm Ruhan Ahmad 👋
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Generative+AI+Engineer;Full-Stack+Software+Engineer;Building+Production+AI+Systems;AI+Agents+%7C+RAG+%7C+Voice+AI;Turning+Ideas+Into+Intelligent+Products" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ruhan-ahmad&style=for-the-badge&color=blueviolet" />
-
-<br/><br/>
-
-### 🚀 Generative AI Engineer | Full-Stack Software Engineer
-
-Building production-ready **AI Agents**, **RAG systems**, **Voice AI**, and scalable SaaS applications that solve real business problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=36&amp;color=C4B5FD&amp;background=00000000&amp;lines=Building+Production+AI+Systems;AI+Agents+%7C+RAG+%7C+Voice+AI;Turning+Ideas+Into+Products" alt="Typing SVG"/>
 
 <p>
-
-<a href="https://ruhanahmad.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/ruhanahmad">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
+  <a href="https://ruhanahmad.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/ruhanahmad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/ruhan-ahmad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+<div align="center">
 
-I'm a **Generative AI & Full-Stack Software Engineer** passionate about building production-ready AI systems that businesses rely on every day.
+<img src="https://img.shields.io/badge/✦_About_Me-0B1220?style=for-the-badge&labelColor=111827&color=6366F1"/>
 
-My work spans the entire AI application lifecycle—from LLM integration and agent orchestration to scalable backend systems, cloud deployment, and intuitive frontend experiences.
 
-I've delivered AI solutions across **FinTech**, **Healthcare**, **B2B SaaS**, and **Enterprise Software**, helping teams automate workflows, enhance customer experiences, and unlock business value through AI.
+<p>
+I'm a <strong>Generative AI & Full-Stack Engineer</strong> specializing in building production-grade AI applications, intelligent agents, and modern full-stack products.
+</p>
 
----
+<p>
+I design and ship AI systems end-to-end—from LLM integrations and multi-agent workflows to RAG & Graph RAG pipelines, voice AI, automation, scalable Python backends, and performant Next.js/React frontends.
+</p>
 
-# 💡 Expertise
+<p>
+  <img src="https://img.shields.io/badge/LLMs-6366F1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI_Agents-22C55E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG_&_Graph_RAG-A855F7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Voice_AI-F43F5E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Automation-F59E0B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Full--Stack-0EA5E9?style=flat-square"/>
+</p>
 
-- 🤖 AI Agents & Multi-Agent Systems
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🔗 Graph RAG & Knowledge Graphs
-- 🎙️ Voice AI & Realtime AI
-- ⚡ OpenAI Assistants & Realtime API
-- 🛠️ MCP (Model Context Protocol)
-- 🔄 AI Workflow Automation
-- 📄 Intelligent Document Processing
-- ☁️ Cloud-Native AI Applications
-- 🚀 High-Performance Backend APIs
+</div>
 
 ---
 
@@ -59,116 +48,148 @@ I've delivered AI solutions across **FinTech**, **Healthcare**, **B2B SaaS**, an
 
 ### AI & LLM
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask&theme=dark"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/✦_LLMs_%26_Providers-0B1220?style=for-the-badge&labelColor=111827&color=6366F1"/>
+</p>
+<p align="center">
+  <img src="./icons/label-openai.svg" height="85" alt="OpenAI"/>
+  <img src="./icons/label-azure-openai.svg" height="85" alt="Azure OpenAI"/>
+  <img src="./icons/label-gemini.svg" height="85" alt="Gemini"/>
+  <img src="./icons/label-claude.svg" height="85" alt="Claude"/>
+  <img src="./icons/label-perplexity.svg" height="85" alt="Perplexity"/>
+  <img src="./icons/label-groq.svg" height="85" alt="Groq"/>
+  <img src="./icons/label-llama3.svg" height="85" alt="Llama 3"/>
+  <img src="./icons/label-ollama.svg" height="85" alt="Ollama"/>
+  <img src="./icons/label-huggingface.svg" height="85" alt="Hugging Face Inference"/>
 </p>
 
-<p>
+<br/>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Agents-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Graph_RAG-4581C3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Voice_AI-EA4335?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-005CEA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chroma-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI_Vector_Store-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/✦_Agent_Frameworks-0B1220?style=for-the-badge&labelColor=111827&color=22C55E"/>
+</p>
+<p align="center">
+  <img src="./icons/label-langchain.svg" height="85" alt="LangChain"/>
+  <img src="./icons/label-langgraph.svg" height="85" alt="LangGraph"/>
+  <img src="./icons/label-autogen.svg" height="85" alt="AutoGen"/>
+  <img src="./icons/label-crewai.svg" height="85" alt="CrewAI"/>
+  <img src="./icons/label-openai-agents.svg" height="85" alt="OpenAI Agents SDK"/>
+  <img src="./icons/label-openai-assistants.svg" height="85" alt="OpenAI Assistants API"/>
+</p>
+<p align="center">
+  <img src="./icons/label-google-adk.svg" height="85" alt="Google ADK"/>
+  <img src="./icons/label-mcp.svg" height="85" alt="MCP"/>
+</p>
 
+<br/>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✦_Vector_%26_Graph_Databases-0B1220?style=for-the-badge&labelColor=111827&color=A855F7"/>
+</p>
+<p align="center">
+  <img src="./icons/label-pinecone.svg" height="85" alt="Pinecone"/>
+  <img src="./icons/label-chroma.svg" height="85" alt="Chroma"/>
+  <img src="./icons/label-weaviate.svg" height="85" alt="Weaviate"/>
+  <img src="./icons/label-openai-vector-store.svg" height="85" alt="OpenAI Vector Store"/>
+  <img src="./icons/label-neo4j.svg" height="85" alt="Neo4j"/>
+  <img src="./icons/label-falkordb.svg" height="85" alt="FalkorDB"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✦_Voice_AI-0B1220?style=for-the-badge&labelColor=111827&color=F43F5E"/>
+</p>
+<p align="center">
+  <img src="./icons/label-voiceai.svg" height="85" alt="Voice AI"/>
+  <img src="./icons/label-vapi.svg" height="85" alt="Vapi"/>
+  <img src="./icons/label-twilio.svg" height="85" alt="Twilio"/>
+  <img src="./icons/label-openai-realtime.svg" height="85" alt="OpenAI Realtime API"/>
+  <img src="./icons/label-deepgram.svg" height="85" alt="Deepgram"/>
+  <img src="./icons/label-whisper.svg" height="85" alt="Whisper"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✦_Automation-0B1220?style=for-the-badge&labelColor=111827&color=F59E0B"/>
+</p>
+<p align="center">
+  <img src="./icons/label-n8n.svg" height="85" alt="n8n"/>
+  <img src="./icons/label-openclaw.svg" height="85" alt="OpenClaw"/>
+  <img src="./icons/label-zapier.svg" height="85" alt="Zapier"/>
+  <img src="./icons/label-make.svg" height="85" alt="Make"/>
 </p>
 
 ---
 
 ### Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,redux,pinia,vite,html,css&theme=dark"/>
-
+<p align="center">
+  <img src="./icons/label-nextjs.svg" height="85" alt="Next.js"/>
+  <img src="./icons/label-react.svg" height="85" alt="React"/>
+  <img src="./icons/label-vue.svg" height="85" alt="Vue"/>
+  <img src="./icons/label-ts.svg" height="85" alt="TypeScript"/>
+  <img src="./icons/label-js.svg" height="85" alt="JavaScript"/>
+  <img src="./icons/label-tailwind.svg" height="85" alt="Tailwind"/>
+  <img src="./icons/label-redux.svg" height="85" alt="Redux"/>
+  <img src="./icons/label-pinia.svg" height="85" alt="Pinia"/>
+  <img src="./icons/label-vite.svg" height="85" alt="Vite"/>
+  <img src="./icons/label-html.svg" height="85" alt="HTML"/>
+  <img src="./icons/label-css.svg" height="85" alt="CSS"/>
 </p>
 
 ---
 
 ### Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs,express,graphql&theme=dark"/>
-
+<p align="center">
+  <img src="./icons/label-python.svg" height="85" alt="Python"/>
+  <img src="./icons/label-fastapi.svg" height="85" alt="FastAPI"/>
+  <img src="./icons/label-django.svg" height="85" alt="Django"/>
+  <img src="./icons/label-aws-chalice.svg" height="85" alt="AWS Chalice"/>
+  <img src="./icons/label-sqlalchemy.svg" height="85" alt="SQLAlchemy"/>
+  <img src="./icons/label-sqlmodel.svg" height="85" alt="SQLModel"/>
+  <img src="./icons/label-pydantic.svg" height="85" alt="Pydantic"/>
+  <img src="./icons/label-alembic.svg" height="85" alt="Alembic"/>
 </p>
 
 ---
 
 ### Databases
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark"/>
-
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
+<p align="center">
+  <img src="./icons/label-postgres.svg" height="85" alt="PostgreSQL"/>
+  <img src="./icons/label-mysql.svg" height="85" alt="MySQL"/>
+  <img src="./icons/label-mongodb.svg" height="85" alt="MongoDB"/>
+  <img src="./icons/label-redis.svg" height="85" alt="Redis"/>
+  <img src="./icons/label-cosmos.svg" height="85" alt="Cosmos DB"/>
+  <img src="./icons/label-sqlserver.svg" height="85" alt="SQL Server"/>
+  <img src="./icons/label-neo4j.svg" height="85" alt="Neo4j"/>
+  <img src="./icons/label-falkordb.svg" height="85" alt="FalkorDB"/>
 </p>
 
 ---
 
 ### Cloud & DevOps
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git,linux,nginx&theme=dark"/>
-
+<p align="center">
+  <img src="./icons/label-aws.svg" height="85" alt="AWS"/>
+  <img src="./icons/label-gcp.svg" height="85" alt="GCP"/>
+  <img src="./icons/label-azure.svg" height="85" alt="Azure"/>
+  <img src="./icons/label-docker.svg" height="85" alt="Docker"/>
+  <img src="./icons/label-kubernetes.svg" height="85" alt="Kubernetes"/>
+  <img src="./icons/label-githubactions.svg" height="85" alt="GitHub Actions"/>
+  <img src="./icons/label-git.svg" height="85" alt="Git"/>
 </p>
 
 ---
 
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=selenium,postman,jest&theme=dark"/>
-
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web_Scraping-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Browser_Automation-black?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
+# GitHub Contributions
 
 <div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruhan-ahmad&theme=tokyonight"/>
-
-<br><br>
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruhan-ahmad&theme=tokyonight"/>
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruhan-ahmad&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ruhan-ahmad&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=ruhan-ahmad&&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=500" alt="Total contributions"/>
 </div>
 
 ---

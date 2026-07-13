@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="394" viewBox="0 0 352 394">
+  <g transform="translate(48,0)">
+    <rect width="256" height="256" rx="60" fill="#0EA5E9"/>
+  <g transform="translate(48.00,48.00) scale(6.6667)"><path fill="#ffffff" d="M14.175 19.825Q13 18.65 13 17t1.175-2.825T17 13t2.825 1.175T21 17t-1.175 2.825T17 21t-2.825-1.175m-10-3Q3 15.65 3 14t1.175-2.825T7 10t2.825 1.175T11 14t-1.175 2.825T7 18t-2.825-1.175m4-8Q7 7.65 7 6t1.175-2.825T11 2t2.825 1.175T15 6t-1.175 2.825T11 10T8.175 8.825"/></g>
+    <text x="128" y="316" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" fill="#e6edf3">Embeddings</text>
+  </g>
+</svg>

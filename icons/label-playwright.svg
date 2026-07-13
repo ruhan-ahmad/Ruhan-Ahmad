@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="312" height="376" viewBox="0 0 312 376">
+  <g transform="translate(28,0)">
+  <g transform="translate(0.00,0.00) scale(1.0)">
+    
+  <rect width="256" height="256" rx="40" fill="#2EAD33"/>
+  <g transform="translate(48,48) scale(6.666)">
+    <path fill="#fff" d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm-1 5h2v6h-2zm0 8h2v2h-2z"/>
+  </g>
+
+  </g>
+  <text x="128.0" y="320" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" fill="#e6edf3">Playwright</text>
+  </g>
+</svg>

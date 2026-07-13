@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="394" viewBox="0 0 352 394">
+  <g transform="translate(48,0)">
+    <rect width="256" height="256" rx="60" fill="#059669"/>
+  <g transform="translate(48,48) scale(6.666)"><path fill="#fff" d="M12 2C7.58 2 4 3.34 4 5v2c0 1.66 3.58 3 8 3s8-1.34 8-3V5c0-1.66-3.58-3-8-3zm0 7c-4.42 0-8-1.34-8-3v3c0 1.66 3.58 3 8 3s8-1.34 8-3V6c0 1.66-3.58 3-8 3zm0 5c-4.42 0-8-1.34-8-3v3c0 1.66 3.58 3 8 3s8-1.34 8-3v-3c0 1.66-3.58 3-8 3zm0 5c-4.42 0-8-1.34-8-3v3c0 1.66 3.58 3 8 3s8-1.34 8-3v-3c0 1.66-3.58 3-8 3z"/></g>
+    <text x="128" y="316" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="700" fill="#e6edf3">SQLModel</text>
+  </g>
+</svg>
