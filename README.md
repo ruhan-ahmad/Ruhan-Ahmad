@@ -37,9 +37,7 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 
 ---
 
-# 🛠 Tech Stack
-
-### AI & LLM
+# Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/✦_LLMs_%26_Providers-0B1220?style=for-the-badge&labelColor=111827&color=6366F1"/>
