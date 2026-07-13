@@ -11,7 +11,6 @@
 <p>
   <a href="https://ruhanahmad.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/ruhanahmad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/ruhan-ahmad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
 </p>
 
 </div>
