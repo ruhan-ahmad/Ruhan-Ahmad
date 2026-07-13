@@ -56,7 +56,6 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-huggingface.svg" height="60" alt="Hugging Face Inference"/>
 </p>
 
-<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/✦_Agent_Frameworks-0B1220?style=for-the-badge&labelColor=111827&color=22C55E"/>
@@ -68,13 +67,9 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-crewai.svg" height="60" alt="CrewAI"/>
   <img src="./icons/label-openai-agents.svg" height="60" alt="OpenAI Agents SDK"/>
   <img src="./icons/label-openai-assistants.svg" height="60" alt="OpenAI Assistants API"/>
-</p>
-<p align="center">
   <img src="./icons/label-google-adk.svg" height="60" alt="Google ADK"/>
   <img src="./icons/label-mcp.svg" height="60" alt="MCP"/>
 </p>
-
-<br/>
 
 
 <p align="center">
@@ -89,7 +84,6 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-falkordb.svg" height="60" alt="FalkorDB"/>
 </p>
 
-<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/✦_Voice_AI-0B1220?style=for-the-badge&labelColor=111827&color=F43F5E"/>
@@ -97,13 +91,11 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 <p align="center">
   <img src="./icons/label-voiceai.svg" height="60" alt="Voice AI"/>
   <img src="./icons/label-vapi.svg" height="60" alt="Vapi"/>
-  <img src="./icons/label-twilio.svg" height="60" alt="Twilio"/>
   <img src="./icons/label-openai-realtime.svg" height="60" alt="OpenAI Realtime API"/>
   <img src="./icons/label-deepgram.svg" height="60" alt="Deepgram"/>
   <img src="./icons/label-whisper.svg" height="60" alt="Whisper"/>
 </p>
 
-<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/✦_Automation-0B1220?style=for-the-badge&labelColor=111827&color=F59E0B"/>
