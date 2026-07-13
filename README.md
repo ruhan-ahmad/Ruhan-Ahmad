@@ -125,7 +125,7 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✦Frontend-0B1220?style=for-the-badge&labelColor=111827&color=6366F1"/>
+  <img src="https://img.shields.io/badge/✦_Frontend-0B1220?style=for-the-badge&labelColor=111827&color=6366F1"/>
 </p>
 <p align="center">
   <img src="./icons/label-nextjs.svg" height="60" alt="Next.js"/>
@@ -142,7 +142,7 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✦Backend-0B1220?style=for-the-badge&labelColor=111827&color=F59E0B"/>
+  <img src="https://img.shields.io/badge/✦_Backend-0B1220?style=for-the-badge&labelColor=111827&color=F59E0B"/>
 </p>
 
 <p align="center">
@@ -157,7 +157,7 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✦Databases-0B1220?style=for-the-badge&labelColor=111827&color=A60502"/>
+  <img src="https://img.shields.io/badge/✦_Databases-0B1220?style=for-the-badge&labelColor=111827&color=A60502"/>
 </p>
 
 <p align="center">
@@ -174,7 +174,7 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✦Cloud & DevOps-0B1220?style=for-the-badge&labelColor=111827&color=A605F7"/>
+  <img src="https://img.shields.io/badge/✦_Cloud & DevOps-0B1220?style=for-the-badge&labelColor=111827&color=A605F7"/>
 </p>
 
 <p align="center">
