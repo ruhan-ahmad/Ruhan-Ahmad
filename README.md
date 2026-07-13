@@ -109,8 +109,9 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 
 ---
 
-### Frontend
-
+<p align="center">
+  <img src="https://img.shields.io/badge/✦Frontend-0B1220?style=for-the-badge&labelColor=111827&color=6366F1"/>
+</p>
 <p align="center">
   <img src="./icons/label-nextjs.svg" height="60" alt="Next.js"/>
   <img src="./icons/label-react.svg" height="60" alt="React"/>
@@ -125,7 +126,9 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-css.svg" height="60" alt="CSS"/>
 </p>
 
-### Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/✦Backend-0B1220?style=for-the-badge&labelColor=111827&color=F59E0B"/>
+</p>
 
 <p align="center">
   <img src="./icons/label-python.svg" height="60" alt="Python"/>
@@ -138,7 +141,9 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-alembic.svg" height="60" alt="Alembic"/>
 </p>
 
-### Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/✦Databases-0B1220?style=for-the-badge&labelColor=111827&color=A60502"/>
+</p>
 
 <p align="center">
   <img src="./icons/label-postgres.svg" height="60" alt="PostgreSQL"/>
