@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="394" viewBox="0 0 352 394">
+  <g transform="translate(48,0)">
+    <rect width="256" height="256" rx="60" fill="#F55036"/>
+    <g transform="translate(48,48) scale(6.666)" fill="#fff">
+      <path d="M13 2 4 13.5h6L9 22l11-14h-6L13 2z"/>
+    </g>
+    <text x="128" y="324" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="700" fill="#e6edf3">Groq</text>
+  </g>
+</svg>

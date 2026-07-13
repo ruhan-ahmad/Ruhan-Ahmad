@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="394" viewBox="0 0 352 394">
+  <g transform="translate(48,0)">
+    <rect width="256" height="256" rx="60" fill="#F59E0B"/>
+  <g transform="translate(48.00,48.00) scale(6.6667)"><path fill="#ffffff" d="M4 14v-2h7v2zm0-4V8h11v2zm0-4V4h11v2zm9 14v-3.075l5.525-5.5q.225-.225.5-.325t.55-.1q.3 0 .575.113t.5.337l.925.925q.2.225.313.5t.112.55t-.1.563t-.325.512l-5.5 5.5zm6.575-5.6l.925-.975l-.925-.925l-.95.95z"/></g>
+    
+    <text x="128" y="304" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" fill="#e6edf3">Prompt</text>
+    <text x="128" y="344" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" fill="#e6edf3">Engineering</text>
+  </g>
+</svg>

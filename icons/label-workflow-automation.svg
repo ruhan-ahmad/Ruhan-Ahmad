@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="394" viewBox="0 0 352 394">
+  <g transform="translate(48,0)">
+    <rect width="256" height="256" rx="60" fill="#10B981"/>
+  <g transform="translate(48.00,48.00) scale(6.6667)"><path fill="#ffffff" d="M15 21v-3h-4V8H9v3H2V3h7v3h6V3h7v8h-7V8h-2v8h2v-3h7v8z"/></g>
+    <text x="128" y="316" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" fill="#e6edf3">Automation</text>
+  </g>
+</svg>

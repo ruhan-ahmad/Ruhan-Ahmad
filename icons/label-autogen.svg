@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="394" viewBox="0 0 352 394">
+  <g transform="translate(48,0)">
+    <rect width="256" height="256" rx="60" fill="#3776AB"/>
+  <g transform="translate(48,48) scale(6.666)"><path fill="#fff" d="M0 0v11.408h11.408V0zm12.594 0v11.408H24V0zM0 12.594V24h11.408V12.594zm12.594 0V24H24V12.594z"/></g>
+    <text x="128" y="324" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="700" fill="#e6edf3">AutoGen</text>
+  </g>
+</svg>

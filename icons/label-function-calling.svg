@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="394" viewBox="0 0 352 394">
+  <g transform="translate(48,0)">
+    <rect width="256" height="256" rx="60" fill="#7C3AED"/>
+  <g transform="translate(48.00,48.00) scale(6.6667)"><path fill="#ffffff" d="M6 20v-2l6.5-6L6 6V4h12v3h-7.225l5.375 5l-5.375 5H18v3z"/></g>
+    <text x="128" y="306" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="700" fill="#e6edf3">Function</text><text x="128" y="348" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="700" fill="#e6edf3">Calling</text>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="394" viewBox="0 0 352 394">
+  <g transform="translate(48,0)">
+    <rect width="256" height="256" rx="60" fill="#EA4335"/>
+  <g transform="translate(48.00,48.00) scale(6.6667)"><path fill="#ffffff" d="M9.875 13.125Q9 12.25 9 11V5q0-1.25.875-2.125T12 2t2.125.875T15 5v6q0 1.25-.875 2.125T12 14t-2.125-.875M11 21v-3.075q-2.6-.35-4.3-2.325T5 11h2q0 2.075 1.463 3.538T12 16t3.538-1.463T17 11h2q0 2.625-1.7 4.6T13 17.925V21z"/></g>
+    <text x="128" y="316" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" fill="#e6edf3">Voice AI</text>
+  </g>
+</svg>

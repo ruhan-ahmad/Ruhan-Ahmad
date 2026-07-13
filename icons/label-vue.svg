@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="312" height="376" viewBox="0 0 312 376">
+  <g transform="translate(28,0)">
+  <g transform="translate(0.00,0.00) scale(1.0)">
+    
+    
+        <g transform="translate(0, 0)">
+          <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#242938" rx="60"/><path fill="#41B883" d="M182 50H218L128 205.25L38 50H73.55H106.85L128 86L148.7 50H182Z"/><path fill="#41B883" d="M38 50L128 205.25L218 50H182L128 143.15L73.55 50H38Z"/><path fill="#fff" d="M73.55 50L128 143.6L182 50H148.7L128 86L106.85 50H73.55Z"/></svg>
+        </g>
+        
+  
+  </g>
+  <text x="128.0" y="328" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="700" fill="#e6edf3">Vue</text>
+  </g>
+</svg>
