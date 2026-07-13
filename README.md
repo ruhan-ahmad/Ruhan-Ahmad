@@ -125,8 +125,6 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-css.svg" height="60" alt="CSS"/>
 </p>
 
----
-
 ### Backend
 
 <p align="center">
@@ -139,8 +137,6 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-pydantic.svg" height="60" alt="Pydantic"/>
   <img src="./icons/label-alembic.svg" height="60" alt="Alembic"/>
 </p>
-
----
 
 ### Databases
 
