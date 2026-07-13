@@ -16,10 +16,6 @@
 </div>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/✦_About_Me-0B1220?style=for-the-badge&labelColor=111827&color=6366F1"/>
-
-
 <p>
 I'm a <strong>Generative AI & Full-Stack Engineer</strong> specializing in building production-grade AI applications, intelligent agents, and modern full-stack products.
 </p>
