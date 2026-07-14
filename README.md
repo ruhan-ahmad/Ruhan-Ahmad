@@ -91,7 +91,6 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-weaviate.svg" height="60" alt="Weaviate"/>
   <img src="./icons/label-openai-vector-store.svg" height="60" alt="OpenAI Vector Store"/>
   <img src="./icons/label-neo4j.svg" height="60" alt="Neo4j"/>
-  <img src="./icons/label-falkordb.svg" height="60" alt="FalkorDB"/>
 </p>
 
 
