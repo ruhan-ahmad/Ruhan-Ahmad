@@ -64,11 +64,7 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-azure-openai.svg" height="60" alt="Azure OpenAI"/>
   <img src="./icons/label-gemini.svg" height="60" alt="Gemini"/>
   <img src="./icons/label-claude.svg" height="60" alt="Claude"/>
-  <img src="./icons/label-perplexity.svg" height="60" alt="Perplexity"/>
-  <img src="./icons/label-groq.svg" height="60" alt="Groq"/>
   <img src="./icons/label-llama3.svg" height="60" alt="Llama 3"/>
-  <img src="./icons/label-ollama.svg" height="60" alt="Ollama"/>
-  <img src="./icons/label-huggingface.svg" height="60" alt="Hugging Face Inference"/>
 </p>
 
 
@@ -82,7 +78,6 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-crewai.svg" height="60" alt="CrewAI"/>
   <img src="./icons/label-openai-agents.svg" height="60" alt="OpenAI Agents SDK"/>
   <img src="./icons/label-openai-assistants.svg" height="60" alt="OpenAI Assistants API"/>
-  <img src="./icons/label-google-adk.svg" height="60" alt="Google ADK"/>
   <img src="./icons/label-mcp.svg" height="60" alt="MCP"/>
 </p>
 
@@ -104,7 +99,6 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="https://img.shields.io/badge/✦_Voice_AI-0B1220?style=for-the-badge&labelColor=111827&color=F43F5E"/>
 </p>
 <p align="center">
-  <img src="./icons/label-voiceai.svg" height="60" alt="Voice AI"/>
   <img src="./icons/label-vapi.svg" height="60" alt="Vapi"/>
   <img src="./icons/label-openai-realtime.svg" height="60" alt="OpenAI Realtime API"/>
   <img src="./icons/label-deepgram.svg" height="60" alt="Deepgram"/>
@@ -134,11 +128,6 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-ts.svg" height="60" alt="TypeScript"/>
   <img src="./icons/label-js.svg" height="60" alt="JavaScript"/>
   <img src="./icons/label-tailwind.svg" height="60" alt="Tailwind"/>
-  <img src="./icons/label-redux.svg" height="60" alt="Redux"/>
-  <img src="./icons/label-pinia.svg" height="60" alt="Pinia"/>
-  <img src="./icons/label-vite.svg" height="60" alt="Vite"/>
-  <img src="./icons/label-html.svg" height="60" alt="HTML"/>
-  <img src="./icons/label-css.svg" height="60" alt="CSS"/>
 </p>
 
 <p align="center">
@@ -149,11 +138,7 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-python.svg" height="60" alt="Python"/>
   <img src="./icons/label-fastapi.svg" height="60" alt="FastAPI"/>
   <img src="./icons/label-django.svg" height="60" alt="Django"/>
-  <img src="./icons/label-aws-chalice.svg" height="60" alt="AWS Chalice"/>
-  <img src="./icons/label-sqlalchemy.svg" height="60" alt="SQLAlchemy"/>
-  <img src="./icons/label-sqlmodel.svg" height="60" alt="SQLModel"/>
-  <img src="./icons/label-pydantic.svg" height="60" alt="Pydantic"/>
-  <img src="./icons/label-alembic.svg" height="60" alt="Alembic"/>
+  <img src="./icons/label-flask.svg" height="60" alt="Flask">
 </p>
 
 <p align="center">
@@ -168,7 +153,6 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-cosmos.svg" height="60" alt="Cosmos DB"/>
   <img src="./icons/label-sqlserver.svg" height="60" alt="SQL Server"/>
   <img src="./icons/label-neo4j.svg" height="60" alt="Neo4j"/>
-  <img src="./icons/label-falkordb.svg" height="60" alt="FalkorDB"/>
 </p>
 
 ---
@@ -183,8 +167,6 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-azure.svg" height="60" alt="Azure"/>
   <img src="./icons/label-docker.svg" height="60" alt="Docker"/>
   <img src="./icons/label-kubernetes.svg" height="60" alt="Kubernetes"/>
-  <img src="./icons/label-githubactions.svg" height="60" alt="GitHub Actions"/>
-  <img src="./icons/label-git.svg" height="60" alt="Git"/>
 </p>
 
 ---
