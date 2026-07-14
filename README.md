@@ -57,7 +57,7 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 ---
 # Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/✦_LLMs_%26_Providers-0B1220?style=for-the-badge&labelColor=111827&color=6366F1"/>
+  <img src="https://img.shields.io/badge/✦_AI_Models_%26_Platform-0B1220?style=for-the-badge&labelColor=111827&color=6366F1"/>
 </p>
 <p align="center">
   <img src="./icons/label-openai.svg" height="60" alt="OpenAI"/>
