@@ -95,20 +95,13 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✦_Voice_AI-0B1220?style=for-the-badge&labelColor=111827&color=F43F5E"/>
+  <img src="https://img.shields.io/badge/✦_Voice_AI_&_Automation-0B1220?style=for-the-badge&labelColor=111827&color=F43F5E"/>
 </p>
 <p align="center">
   <img src="./icons/label-vapi.svg" height="60" alt="Vapi"/>
   <img src="./icons/label-openai-realtime.svg" height="60" alt="OpenAI Realtime API"/>
   <img src="./icons/label-deepgram.svg" height="60" alt="Deepgram"/>
   <img src="./icons/label-whisper.svg" height="60" alt="Whisper"/>
-</p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/✦_Automation-0B1220?style=for-the-badge&labelColor=111827&color=F59E0B"/>
-</p>
-<p align="center">
   <img src="./icons/label-n8n.svg" height="60" alt="n8n"/>
   <img src="./icons/label-openclaw.svg" height="60" alt="OpenClaw"/>
   <img src="./icons/label-zapier.svg" height="60" alt="Zapier"/>
@@ -151,7 +144,6 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-redis.svg" height="60" alt="Redis"/>
   <img src="./icons/label-cosmos.svg" height="60" alt="Cosmos DB"/>
   <img src="./icons/label-sqlserver.svg" height="60" alt="SQL Server"/>
-  <img src="./icons/label-neo4j.svg" height="60" alt="Neo4j"/>
 </p>
 
 ---
