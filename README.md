@@ -69,7 +69,7 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✦_Agent_Frameworks-0B1220?style=for-the-badge&labelColor=111827&color=22C55E"/>
+  <img src="https://img.shields.io/badge/✦_Agentic_AI_&_RAG-0B1220?style=for-the-badge&labelColor=111827&color=22C55E"/>
 </p>
 <p align="center">
   <img src="./icons/label-langchain.svg" height="60" alt="LangChain"/>
@@ -77,22 +77,11 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-autogen.svg" height="60" alt="AutoGen"/>
   <img src="./icons/label-crewai.svg" height="60" alt="CrewAI"/>
   <img src="./icons/label-openai-agents.svg" height="60" alt="OpenAI Agents SDK"/>
-  <img src="./icons/label-openai-assistants.svg" height="60" alt="OpenAI Assistants API"/>
   <img src="./icons/label-mcp.svg" height="60" alt="MCP"/>
-</p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/✦_Vector_%26_Graph_Databases-0B1220?style=for-the-badge&labelColor=111827&color=A605F7"/>
-</p>
-<p align="center">
   <img src="./icons/label-pinecone.svg" height="60" alt="Pinecone"/>
   <img src="./icons/label-chroma.svg" height="60" alt="Chroma"/>
-  <img src="./icons/label-weaviate.svg" height="60" alt="Weaviate"/>
-  <img src="./icons/label-openai-vector-store.svg" height="60" alt="OpenAI Vector Store"/>
   <img src="./icons/label-neo4j.svg" height="60" alt="Neo4j"/>
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/✦_Voice_AI_&_Automation-0B1220?style=for-the-badge&labelColor=111827&color=F43F5E"/>
@@ -123,24 +112,14 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✦_Backend-0B1220?style=for-the-badge&labelColor=111827&color=F59E0B"/>
+  <img src="https://img.shields.io/badge/✦_Backend_&_Databases-0B1220?style=for-the-badge&labelColor=111827&color=F59E0B"/>
 </p>
 
 <p align="center">
   <img src="./icons/label-python.svg" height="60" alt="Python"/>
   <img src="./icons/label-fastapi.svg" height="60" alt="FastAPI"/>
   <img src="./icons/label-django.svg" height="60" alt="Django"/>
-  <img src="./icons/label-flask.svg" height="60" alt="Flask">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/✦_Databases-0B1220?style=for-the-badge&labelColor=111827&color=A60502"/>
-</p>
-
-<p align="center">
   <img src="./icons/label-postgres.svg" height="60" alt="PostgreSQL"/>
-  <img src="./icons/label-mysql.svg" height="60" alt="MySQL"/>
-  <img src="./icons/label-mongodb.svg" height="60" alt="MongoDB"/>
   <img src="./icons/label-redis.svg" height="60" alt="Redis"/>
   <img src="./icons/label-cosmos.svg" height="60" alt="Cosmos DB"/>
   <img src="./icons/label-sqlserver.svg" height="60" alt="SQL Server"/>
