@@ -38,9 +38,7 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 ---
 # Highlights
 
-✔ Built production AI systems for startups and enterprise clients
-
-✔ Delivered AI Agents, Voice AI and RAG applications
+✔ Built production AI systems for startups and enterprise clients.            ✔ Delivered AI Agents, Voice AI and RAG applications.
 
 ✔ Built multi-agent orchestration using LangGraph, AutoGen, CrewAI & MCP
 
