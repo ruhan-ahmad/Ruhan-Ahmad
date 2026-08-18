@@ -38,13 +38,13 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 ---
 # Highlights
 
-✔ Built production AI systems for startups and enterprise clients            |✔ Delivered AI Agents, Voice AI and RAG applications
+✔ Built production AI systems for startups and enterprise clients            |  ✔ Delivered AI Agents, Voice AI and RAG applications
 
-✔ Built multi-agent orchestration using LangGraph, AutoGen, CrewAI & MCP     |✔ Designed Graph RAG pipelines with Neo4j
+✔ Built multi-agent orchestration using LangGraph, AutoGen, CrewAI & MCP     |  ✔ Designed Graph RAG pipelines with Neo4j
 
-✔ Developed scalable FastAPI backends serving thousands of requests          |✔ Built modern Next.js & React applications
+✔ Developed scalable FastAPI backends serving thousands of requests          |  ✔ Built modern Next.js & React applications
 
-✔ Integrated OpenAI, Gemini, Claude, Azure OpenAI, Groq and Llama models     |✔ Experience across Healthcare, FinTech, Insurance & B2B SaaS
+✔ Integrated OpenAI, Gemini, Claude, Azure OpenAI, Groq and Llama models     |  ✔ Experience across Healthcare, FinTech, Insurance & B2B SaaS
 
 ---
 # Tech Stack
