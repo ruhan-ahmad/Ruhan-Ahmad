@@ -139,11 +139,11 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-kubernetes.svg" height="60" alt="Kubernetes"/>
 </p>
 
----
+<!-- ---
 
 # GitHub Contributions
 
-<!-- <div align="center">
+ <div align="center">
 <img src="https://streak-stats.demolab.com?user=ruhan-ahmad&&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=600" alt="Total contributions"/>
 </div> -->
 
