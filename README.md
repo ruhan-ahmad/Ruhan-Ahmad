@@ -36,7 +36,7 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 </div>
 
 ---
-# Highlights
+<!-- # Highlights
 
 ✔ Built production AI systems for startups and enterprise clients            |  ✔ Delivered AI Agents, Voice AI and RAG applications
 
@@ -46,7 +46,7 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
 
 ✔ Integrated OpenAI, Gemini, Claude, Azure OpenAI, Groq and Llama models     |  ✔ Experience across Healthcare, FinTech, Insurance & B2B SaaS
 
----
+----->
 # Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/✦_AI_Models_%26_Platform-0B1220?style=for-the-badge&labelColor=111827&color=6366F1"/>
