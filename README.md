@@ -131,7 +131,7 @@ I design and ship AI systems end-to-end—from LLM integrations and multi-agent 
   <img src="./icons/label-kubernetes.svg" height="60" alt="Kubernetes"/>
 </p>
 
-<!-- ---
+<!--  ---
 
 # GitHub Contributions
 
